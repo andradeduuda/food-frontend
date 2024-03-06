@@ -33,8 +33,8 @@ ___
 # Execute o clone em seu computador
 
 ```bash
-$ git clone front-end 
-$ git clone back-end 
+$ git clone front-end https://github.com/andradeduuda/food-frontend.git
+$ git clone back-end https://github.com/andradeduuda/food-backend.git
 ```
 ___
 
@@ -45,7 +45,7 @@ ___
   PORT=
 
 # Navegue até o diretório do backend
-$ cd 
+$ cd food-backend
 
 # Instale as dependências
 $ npm install
@@ -58,7 +58,7 @@ ___
 - FrontEnd
 ```bash
 # Navegue até a pasta do diretório do frontend
-$ cd 
+$ cd food-frontend
 
 # Instale as dependências
 $ npm install
@@ -87,4 +87,4 @@ ___
 Por ser utilizada uma hopedagem gratuita, você poderá enfrentar dificuldades, e um pouso de lentidão para entrar. Tenha paciência, o processo levará cerca de 1min.
 <br>
 
-[RESULTADO FINAL](https://)
+[RESULTADO FINAL](https://madu-foodexplorer.netlify.app/)

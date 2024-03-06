@@ -3,8 +3,6 @@ import styled from "styled-components";
 export const Container = styled.div `
     width: 100%;
     height: 512px;
-   
-    
 
     background: rgba(0, 0, 0, 0.32);
     border: 1px solid rgba(0, 0, 0, 0.65);
@@ -14,7 +12,7 @@ export const Container = styled.div `
     margin-inline: auto;
     display: flex;
     flex-direction: column;
-    margin-left: 27px;
+   
    
     position: relative;
 

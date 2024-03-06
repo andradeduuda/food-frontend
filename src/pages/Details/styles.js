@@ -58,6 +58,7 @@ export const Container = styled.div`
             display: flex;
             flex-direction: column;
             margin-left: 30px;
+            align-itens: center;
           
 
             .description{
@@ -95,13 +96,14 @@ export const Container = styled.div`
             .price {
                 display: flex;
                 align-items: center;
-                gap: 40px;
+                gap: 50px;
                 margin-top: 40px;
                 strong {
                     font-weight: 400;
                     font-size: 32px;
                     line-height: 160%;
                     text-align: center;
+                    margin-left: 30px;
                     color: #82F3FF;
                 }
 
